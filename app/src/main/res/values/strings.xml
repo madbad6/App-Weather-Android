@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Weather</string>
+    <string name="logo">Погода в Вашем городе</string>
+</resources>
